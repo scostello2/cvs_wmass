@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "cvs_wmass",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Address": "165 University Drive", "State code": "MA", "City": "Amherst", "Drivethru": "y", "Monthly Revenue": 100000.0, "ZIP code": "01002" }, "geometry": { "type": "Point", "coordinates": [ -72.533929374027437, 42.368623081197953 ] } },
+{ "type": "Feature", "properties": { "Address": "76 North Pleasant Street", "State code": "MA", "City": "Amherst", "Drivethru": "n", "Monthly Revenue": 200000.0, "ZIP code": "01002" }, "geometry": { "type": "Point", "coordinates": [ -72.520325524879851, 42.376910786435097 ] } },
+{ "type": "Feature", "properties": { "Address": "367 Russell Street", "State code": "MA", "City": "Hadley", "Drivethru": "n", "Monthly Revenue": 150000.0, "ZIP code": "01035" }, "geometry": { "type": "Point", "coordinates": [ -72.54643045387644, 42.357619828255345 ] } },
+{ "type": "Feature", "properties": { "Address": "366 King Street", "State code": "MA", "City": "Northampton", "Drivethru": "y", "Monthly Revenue": 300000.0, "ZIP code": "01060" }, "geometry": { "type": "Point", "coordinates": [ -72.637574667269419, 42.336472974007116 ] } },
+{ "type": "Feature", "properties": { "Address": "90 Main Street", "State code": "MA", "City": "Northampton", "Drivethru": "n", "Monthly Revenue": 90000.0, "ZIP code": "01060" }, "geometry": { "type": "Point", "coordinates": [ -72.629931085302957, 42.319180520072521 ] } },
+{ "type": "Feature", "properties": { "Address": "118 Northampton Street", "State code": "MA", "City": "Easthampton", "Drivethru": "y", "Monthly Revenue": 440000.0, "ZIP code": "01027" }, "geometry": { "type": "Point", "coordinates": [ -72.671487353618531, 42.280059619771905 ] } },
+{ "type": "Feature", "properties": { "Address": "151 North Main Street", "State code": "MA", "City": "Belchertown", "Drivethru": "y", "Monthly Revenue": 115000.0, "ZIP code": "01007" }, "geometry": { "type": "Point", "coordinates": [ -72.407414144437411, 42.288447126083184 ] } },
+{"type":"Feature","properties":{"fillColor":"#41b6c4","strokeColor":"black","strokeWidth":"1"},"geometry":{"type":"MultiPolygon","coordinates":[[[[ -72.533929374027437, 42.368623081197953 ],[ -72.637574667269419, 42.336472974007116 ],[ -72.629931085302957, 42.319180520072521 ],[ -72.671487353618531, 42.280059619771905 ],[ -72.407414144437411, 42.288447126083184 ]]]]}}
+]
+}
